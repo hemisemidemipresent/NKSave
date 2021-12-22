@@ -1,0 +1,25 @@
+{
+  "name": "nksave",
+  "version": "1.0.0",
+  "description": "btd6 Profile.save thingy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemisemidemipresent/monke.git"
+  },
+  "keywords": [
+    "btd6"
+  ],
+  "author": "hemidemisemipresent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemisemidemipresent/monke/issues"
+  },
+  "homepage": "https://github.com/hemisemidemipresent/monke#readme",
+  "dependencies": {
+    "aes-js": "^3.1.2"
+  }
+}
